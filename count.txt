@@ -3,5 +3,5 @@ first line
 hello
 hii
 `:wq
-new changes in main branch 
-and create
+<<<<<<< HEAD
+new changes in main
